@@ -15,6 +15,6 @@ public class HelloWorldTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
+        assertTrue( false);
     }
 }
