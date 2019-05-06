@@ -1,0 +1,8 @@
+main/java/model/HelloWorld.class
+service/RoleSingletonBean.class
+service/UserSessionBean.class
+model/Role.class
+controller/IndexController.class
+util/Resources.class
+model/User.class
+controller/AccountsController.class
